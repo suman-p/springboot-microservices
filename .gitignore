@@ -3,3 +3,6 @@
 /limits-service/mvnw
 /limits-service/mvnw.cmd
 /limits-service/target/
+/config-server/mvnw
+/config-server/mvnw.cmd
+/config-server/.mvn/
